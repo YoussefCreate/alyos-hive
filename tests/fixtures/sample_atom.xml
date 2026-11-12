@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Sample Atom feed</title>
+  <entry>
+    <title>How do I summarise 200 customer reviews every month?</title>
+    <link href="https://example.com/atom/1"/>
+    <id>https://example.com/atom/1</id>
+    <content type="html">We collect reviews by hand and nobody reads them.</content>
+  </entry>
+</feed>

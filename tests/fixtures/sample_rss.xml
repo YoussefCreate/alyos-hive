@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Sample small business feed</title>
+    <item>
+      <title>Need help automating invoice reminders for my bakery</title>
+      <link>https://example.com/posts/1</link>
+      <description>&lt;p&gt;I spend 4 hours a week chasing unpaid invoices. Is there a tool or someone who can set this up?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Looking for someone to turn my Excel stock sheet into a dashboard</title>
+      <link>https://example.com/posts/2</link>
+      <description>Happy to pay for a clean dashboard I can update weekly.</description>
+    </item>
+    <item>
+      <title>Our town opened a new park today</title>
+      <link>https://example.com/posts/3</link>
+      <description>Photos from the opening ceremony.</description>
+    </item>
+  </channel>
+</rss>
